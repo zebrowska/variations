@@ -1,0 +1,16 @@
+#contentinfo p { 
+    line-height: 20px;
+    margin: 30px;
+    padding-bottom: 20px; 
+    text-align: justify;
+    width: 140px;
+    color: rgb(124, 134, 160); 
+ }
+
+
+ 
+ p {
+    border: 2px solid rgb(57, 54, 61);
+    font-family: cursive;
+    letter-spacing: -3px;
+}
