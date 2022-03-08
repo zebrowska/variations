@@ -7,3 +7,13 @@ body{
 .contentinfo{
     top: 100px;
 }
+
+p.a{
+    font-family: Verdana, Tahoma, sans-serif;
+    line-height: 7px;
+}
+
+p.b{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 9px;
+}
