@@ -1,0 +1,12 @@
+#contentinfo p { 
+    border-width: 20px;
+ }
+
+ .leftdiv{
+     float: left;
+ }
+
+.bordertop{
+    border-top-left-radius: 10%;
+}
+
