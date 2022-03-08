@@ -14,3 +14,7 @@
     font-family: cursive;
     letter-spacing: -3px;
 }
+
+body {
+    background-image: url("unsplash-1");
+}
