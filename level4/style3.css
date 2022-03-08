@@ -1,0 +1,22 @@
+#contentinfo p { 
+    border-width: 20px;
+ }
+
+ .leftdiv{
+     float: left;
+ }
+
+.bordertop{
+    border-top-left-radius: 10%;
+}
+
+h1 {
+    padding-left: 650px;
+    background-color: darkgray;
+}
+
+h2 {
+  width:700px;
+  background-color:rgb(87, 108, 133);
+  padding-left: 450px;
+}
