@@ -1,4 +1,8 @@
-p{
-    padding: 5%;
-    margin-right: -25px;
-}
+
+body {
+    background-color:#88afd6;
+  }
+  #myTable {
+    background-color:#FFFFFF;
+    border-collapse:collapse;
+  }
