@@ -1,8 +1,7 @@
 #contentinfo p { 
-    line-height: 20px;
+    line-height: 100px;
     margin: 30px;
     padding-bottom: 20px; 
-    text-align: justify;
     width: 140px;
     color: rgb(124, 134, 160); 
  }
