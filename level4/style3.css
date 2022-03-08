@@ -20,3 +20,8 @@ h2 {
   background-color:rgb(87, 108, 133);
   padding-left: 450px;
 }
+
+span {
+    text-transform: uppercase;
+  }
+  strong { float: right; }
