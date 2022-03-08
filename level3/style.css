@@ -1,5 +1,8 @@
-
 h3 {
     margin: 20px;
     padding-bottom: 600px;
+}
+
+.box {
+    border: 2px solid rgb(57, 54, 61);
 }
