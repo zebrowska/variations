@@ -11,4 +11,6 @@
  
  p {
     border: 2px solid rgb(57, 54, 61);
+    font-family: cursive;
+    letter-spacing: -3px;
 }
