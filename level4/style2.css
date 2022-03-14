@@ -9,6 +9,6 @@ body{
 }
 
 small {
-    color: royalblue;
-    text-shadow: 1px, 1px, navy;
+    color: rgb(67, 83, 94);
+    text-shadow: 1px, 1px, rgb(34, 136, 88);
 }
