@@ -13,4 +13,12 @@ table, td, th {
   border-spacing: 10px;
 }
 
+#myTable2 {
+  border-collapse: separate;
+  border-spacing: 10px;
+}
 
+#myTable3 {
+  border-collapse: separate;
+  border-spacing: 10px;
+}
