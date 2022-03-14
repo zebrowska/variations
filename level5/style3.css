@@ -1,3 +1,12 @@
+p {
+    line-height: 0.5em;
+    color: rgb(255, 255, 255);
+    font-family: 'Archivo', sans-serif;
+    font-size: 40px;
+    letter-spacing: 40px;
+    text-transform: capitalize;
+}
+
 #contentinfo p { 
     border-width: 20px;
  }
@@ -21,7 +30,29 @@ h2 {
   padding-left: 450px;
 }
 
-span {
-    text-transform: uppercase;
-  }
-  strong { float: right; }
+h3 {
+    padding-left: 650px;
+    background-color: lightslategray;
+}
+
+h4 {
+    padding-left: 450px;
+    background-color: steelblue;
+}
+
+h5 {
+    padding-left: 650px;
+    background-color: silver;
+}
+
+h6 {
+    padding-left: 450px;
+    background-color: lightcyan;
+}
+
+body {
+    background-image: url(https://unsplash.com/photos/e_ZxKz3_2Nc);
+    background-size: cover;
+    display: block;
+    margin: 8px;
+}
