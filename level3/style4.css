@@ -3,7 +3,13 @@ body {
     background-color:#000000;
     color: #FFFFFF;
   }
-  #myTable {
-    background-color: rgb(77, 81, 85);
-    border-collapse: collapse;
+
+table, td, th {
+    border: 1px solid black;
   }
+
+#myTable {
+  border-collapse: separate;
+  border-spacing: 10px;
+}
+
