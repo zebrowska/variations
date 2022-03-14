@@ -20,3 +20,23 @@ h2 {
   background-color:rgb(87, 108, 133);
   padding-left: 450px;
 }
+
+h3 {
+    padding-left: 650px;
+    background-color: lightslategray;
+}
+
+h4 {
+    padding-left: 450px;
+    background-color: steelblue;
+}
+
+h5 {
+    padding-left: 650px;
+    background-color: silver;
+}
+
+h6 {
+    padding-left: 450px;
+    background-color: lightcyan;
+}
