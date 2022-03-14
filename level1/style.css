@@ -1,0 +1,16 @@
+.home{
+    float: right;
+    text-align: center;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    list-style: none;
+}
+
+li {
+    float: left;
+    display: list-item;
+}
