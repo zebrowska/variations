@@ -12,3 +12,7 @@
  p {
     border: 2px solid rgb(57, 54, 61);
 }
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
