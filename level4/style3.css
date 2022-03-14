@@ -49,3 +49,9 @@ h6 {
     padding-left: 450px;
     background-color: lightcyan;
 }
+
+body {
+    background-color: tan;
+    display: block;
+    margin: 8px;
+}
