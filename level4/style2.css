@@ -7,3 +7,8 @@ body{
 .contentinfo{
     top: 100px;
 }
+
+small {
+    color: royalblue;
+    text-shadow: 1px, 1px, navy;
+}
