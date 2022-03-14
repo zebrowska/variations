@@ -15,7 +15,8 @@
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: pink;
+    background-image: url(https://www.google.pl/search?q=border%20png&tbm=isch&tbs=ic:trans&hl=en-GB&sa=X&ved=0CAMQpwVqFwoTCLCWtZOrxfYCFQAAAAAdAAAAABAE&biw=1822&bih=946#imgrc=q0409DbrPxqXSM);
+    background-size: cover;
 }
 
 .wiggle {
