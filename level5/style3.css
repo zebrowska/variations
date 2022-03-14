@@ -51,8 +51,7 @@ h6 {
 }
 
 body {
-    background-image: url(https://unsplash.com/photos/e_ZxKz3_2Nc);
-    background-size: cover;
+    background-color: tan;
     display: block;
     margin: 8px;
 }
