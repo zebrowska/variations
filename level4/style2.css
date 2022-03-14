@@ -14,3 +14,13 @@ small {
     color: rgb(67, 83, 94);
     text-shadow: 1px, 1px, rgb(34, 136, 88);
 }
+
+em {
+    color: rgb(248, 196, 177);
+    line-height: normal;
+    background-position-x: left;
+    border-width: 1px;
+    border-style: solid;
+    border-top: rgb(38, 158, 118);
+    line-height: 5px;
+    font-style: italic;
