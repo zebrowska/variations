@@ -1,8 +1,9 @@
 
 body {
-    background-color:#88afd6;
+    background-color:#000000;
+    color: #FFFFFF;
   }
   #myTable {
-    background-color:#FFFFFF;
-    border-collapse:collapse;
+    background-color: rgb(77, 81, 85);
+    border-collapse: separate;
   }
