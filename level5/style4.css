@@ -1,17 +1,37 @@
 
 body {
-    background-color:#88afd6;
+    background-image: url(https://www.google.co.uk/search?q=border&tbm=isch&tbs=ic:trans&hl=en-GB&sa=X&ved=0CAMQpwVqFwoTCKjDx9SsxfYCFQAAAAAdAAAAABAC&biw=1822&bih=1003#imgrc=9buePTk6l37EwM);
+    background-size: cover;
+    color: #FFFFFF;
+    font-family: monospace;
+      font-size: 24px;
+      line-height: 300%;
+      border: 20px solid rgb(78, 31, 31);
+      width: 405;
+      margin: 5%;
+      text-transform: capitalize;
+      text-align: center;
+      padding: 25px;
+      letter-spacing: 50px;
+  
   }
+  
+  table, td, th {
+    border: 1px solid rgb(104, 99, 99);
+    background-color: rosybrown;
+  }
+  
   #myTable {
-    background-color:#FFFFFF;
-    border-collapse:collapse;
+  border-collapse: separate;
+  border-spacing: 10px;
   }
-
-  p.thick {
-    font-weight: bold;
-    letter-spacing: -2px;
+  
+  #myTable2 {
+  border-collapse: separate;
+  border-spacing: 10px;
   }
-
- h1{
-     font-weight: 900px;
- }
+  
+  #myTable3 {
+  border-collapse: separate;
+  border-spacing: 10px;
+  }
