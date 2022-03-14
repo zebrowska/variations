@@ -5,5 +5,5 @@ body {
   }
   #myTable {
     background-color: rgb(77, 81, 85);
-    border-collapse: separate;
+    border-collapse: collapse;
   }
