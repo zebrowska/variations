@@ -5,7 +5,7 @@ body {
   }
 
 table, td, th {
-    border: 1px solid black;
+    border: 1px solid rgb(70, 64, 64);
   }
 
 #myTable {
