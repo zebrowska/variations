@@ -1,0 +1,8 @@
+.down {
+    position: relative;
+    top: 100px;
+}
+
+span {
+    font-style: italic;
+}
