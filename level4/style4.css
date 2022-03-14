@@ -1,17 +1,36 @@
 
 body {
-    background-color:#88afd6;
-  }
-  #myTable {
-    background-color:#FFFFFF;
-    border-collapse:collapse;
-  }
+  background-color:#64586e;
+  color: #FFFFFF;
+  font-family: monospace;
+    font-size: 24px;
+    line-height: 300%;
+    border: 20px solid rgb(78, 31, 31);
+    width: 405;
+    margin: 5%;
+    text-transform: capitalize;
+    text-align: center;
+    padding: 25px;
+    letter-spacing: 50px;
 
-  p.thick {
-    font-weight: bold;
-    letter-spacing: -2px;
-  }
+}
 
- h1{
-     font-weight: 900px;
- }
+table, td, th {
+  border: 1px solid rgb(104, 99, 99);
+  background-color: rosybrown;
+}
+
+#myTable {
+border-collapse: separate;
+border-spacing: 10px;
+}
+
+#myTable2 {
+border-collapse: separate;
+border-spacing: 10px;
+}
+
+#myTable3 {
+border-collapse: separate;
+border-spacing: 10px;
+}
