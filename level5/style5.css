@@ -16,7 +16,7 @@ p{
 }
 
 body{
-    background-color: black;
+    background-image: linear-gradient(rgba(140, 140, 248, 0.5), rgba(83, 101, 104, 0.5));
     color: cornsilk;
         display: grid;
         place-items: center;
@@ -31,9 +31,10 @@ body{
 }
 
 h1 {
-    color: orangered;
+    color: rgb(100, 160, 145);
 }
 
 h5 {
     color: thistle;
 }
+

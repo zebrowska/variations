@@ -24,3 +24,21 @@ em {
     border-top: rgb(38, 158, 118);
     line-height: 5px;
     font-style: italic;
+}
+
+p {
+    animation-duration: 3s;
+    animation-name: slidein;
+  }
+  
+  @keyframes slidein {
+    from {
+      margin-left: 100%;
+      width: 300%;
+    }
+  
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+  }

@@ -55,3 +55,16 @@ body {
     display: block;
     margin: 8px;
 }
+    
+    
+    
+    body {
+        background: #FCE97F;
+        animation: fadeBackground 6s;
+        animation-fill-mode: forwards;
+      }
+      
+      @keyframes fadeBackground {
+        from { background-color: #FCE97F; }
+        to { background-color: #2EB07B; }
+      }

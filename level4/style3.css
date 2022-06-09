@@ -7,17 +7,13 @@ p {
     text-transform: capitalize;
 }
 
-#contentinfo p { 
-    border-width: 20px;
- }
+
 
  .leftdiv{
      float: left;
  }
 
-.bordertop{
-    border-top-left-radius: 10%;
-}
+
 
 h1 {
     padding-left: 650px;
@@ -53,5 +49,4 @@ h6 {
 body {
     background-color: tan;
     display: block;
-    margin: 8px;
 }
